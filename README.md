@@ -5,9 +5,13 @@ Download the python file and game assets (maintain the directory structure - i.e
 
 Download the [SimpleGUICS2Pygame](https://pypi.org/project/SimpleGUICS2Pygame/#description) module
 
+To start the game you'd run `$ python asteroids_clone.py` 
+
 # Controls
 Click in window to start
 
 Spacebar to shoot
+
 Left and right arrows to turn
+
 Forward arrow to move forward
